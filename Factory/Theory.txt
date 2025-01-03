@@ -1,0 +1,3 @@
+This is to create objects using w/o specifying their exact class type.
+
+Objects are not created by constructor, but by sub-classes.
