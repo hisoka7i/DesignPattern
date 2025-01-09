@@ -1,0 +1,6 @@
+* We are not specifying the concrete sub-classes,
+* Are not creating just an object instead we are creating an family object.
+Suppose we are working with a toolbox, then with a single provider we can get objects
+of all the tools in it.
+* Easily switch between product families by changing the factory.
+* We can add new product family.
