@@ -1,0 +1,5 @@
+For cloning of an existing object instead of creating a new one, we can also make changes also
+requirement(Customization)
+
+- This method should be used when cost of creating a new object is expensive and resource intensive.
+- This create a deep copy of an object. 
