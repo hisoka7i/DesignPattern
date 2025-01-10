@@ -3,3 +3,8 @@ Make sure single object can be used by different classes.
 There are 2 kinds of initialization for it : lazy and eager.
 Advantage: Saves memory because object is not created again and again, instead single object reused.
 It is mostly used in multithreaded application and database application: logging, caching, thread pools, configuration.
+
+How to create?
+ - static member
+ - private constructor
+ - static factory method
