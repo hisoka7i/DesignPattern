@@ -1,0 +1,4 @@
+Construct a Complex object by using simple object in step by step manner.
+Clear separation between the construction and representation of a object.
+It provides control over creation of object
+It supports to change the internal representation of an object.
